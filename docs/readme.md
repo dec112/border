@@ -18,7 +18,7 @@ All components of calls are stored in the gateways database
 
 * [Border Gateway Database](database.md)
 * [Border Gateway API description](api.md)
-* [API documentation (PDF version)](dec112-api-pdf)
+* [API documentation (PDF version)](dec112-api.pdf)
 
 ---
 
