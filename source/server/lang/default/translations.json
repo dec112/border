@@ -1,0 +1,158 @@
+{
+    "auto_answer_new_call": {
+        "en": "Emergency Control Center here! How can we help you?",
+        "de": "Notrufzentrale. Wie können wir Ihnen helfen?"
+    },
+    "auto_answer_new_call_echo_service": {
+        "en": "This is the ($[1]) of ($[2]).\r\n\r\nNOTE: This service just echos back what you are typing. It is used for testing and diagnosis.\r\nNo human is monitoring this service and this chat is\r\n\r\nNO EMERGENCY CALL!\r\n\r\nIf you need help\r\n\r\nDONT USE THIS SERVICE!\r\n\r\n$[3]",
+        "de": "Dies ist der ($[1]) von ($[2]).\r\n\r\nACHTUNG: Dieser Service sendet Ihre Eingaben an Sie selbst zurück. Dies wird für Test und Diagnosezwecke verwendet.\r\nDieser Notruf wird von keinem Menschen verfolgt und ist\r\n\r\nKEIN NOTRUF!\r\n\r\nWenn Sie Hilfe benötigen verwendet Sie \r\n\r\nNICHT DIESEN DIENST!\r\n\r\n$[3]"
+    },
+    "no_location": {
+        "en": "No or invalid location information provided. Consider checking location (e.g. GPS) settings on your device. Providing accurate location information can help emergency services to help you faster!",
+        "de": "Keine oder falsche Standortdaten verfügbar. Überprüfen Sie die Standort Einstellungen (z.B. GPS) Ihres Gerätes. Die Übermittlung genauer Standortdaten ermöglicht es Hilfsorganisationen Ihnen schneller zu helfen!"
+    },
+    "call_closed_by_center": {
+        "en": "This emergency call was intentionally closed by Emergency Control Center. In case of further questions please call again.",
+        "de": "Dieser Notruf wurde durch die Notrufzentrale beendet. Bei weiteren Fragen bitte nochmals anrufen."
+    },
+    "call_closed_by_system": {
+        "en": "This emergency call was closed by an Emergency Control Center System. This could be in case of a system failure. Please try to call again or use another emergency service!!",
+        "de": "Dieser Notruf wurde vom System der Notrufzentrale beendet. Dies kann durch einen System Fehler verursacht worden sein. Bitte versuchen Sie es erneut oder versuchen Sie eine anderen Notfall Service!!"
+    },
+    "invalid_message": {
+        "en": "*** ATTENTION ***\r\n\r\nThe message you sent was not recognized by the emergency call center as a DEC112 message.\r\n\r\nPlease use the DEC112 mobile app or another standard way (e.g. by calling 112) for contacting!\r\n\r\n!! YOUR CALL WILL NOT BE ANSWERED OR OTHERWISE PROCESSED !!",
+        "de": "*** ACHTUNG ***\r\n\r\nIhre gesendet Nachricht wurde von der Leitstelle nicht als DEC112 Nachricht erkannt.\r\n\r\nBitte verwenden Sie die DEC112 mobile App oder einen anderen verfügbaren Weg (zum Beispiel via Notruf 112) um die Leitstelle zu kontakteren!\r\n\r\n!! IHR NOTRUF WIRD NICHT BEANTWORTET ODER WEITER BEARBEITET !!"
+    },
+    "invalid_caller": {
+        "en": "*** ATTENTION ***\r\n\r\nYour call could not be verified. This could either mean you are not a registered DEC112 user or the DEC112 registration service could not be reached.\r\n\r\nPlease use another standard way (e.g. by calling 112) for contacting!\r\n\r\n!! YOUR CALL WILL NOT BE ANSWERED OR OTHERWISE PROCESSED !!",
+        "de": "*** ACHTUNG ***\r\n\r\nIhr Notruf konnte nicht validiert werden. Dies bedeutet entweder dass Sie kein registrierter DEC112 Benutzer sind oder dass der DEC112 Registrierungs Service nicht erreichbar ist.\r\n\r\nBitte verwenden Sie einen anderen verfügbaren Weg (zum Beispiel via Notruf 112) um die Leitstelle zu kontaktieren!\r\n\r\n!! IHR NOTRUF WIRD NICHT BEANTWORTET ODER WEITER BEARBEITET !!"
+    },
+    "invalid_roaming_call": {
+        "en": "*** ATTENTION ***\r\n\r\nYou are calling this service from an unsupported location or from a location for which a another emergency call center would provide better service (e.g. calling from another country while roaming).\r\n\r\nPlease use another standard way (e.g. by calling 112) for contacting these emergency center!\r\n\r\n!! YOUR CALL WILL NOT BE ANSWERED OR OTHERWISE PROCESSED !!",
+        "de": "*** ACHTUNG ***\r\n\r\nSie verwenden diesen Notfall Dienst von einer nicht unterstützten Position oder von einer Position die von einer anderen Leitstelle unterstützt wird (z.B. Anruf aus einem anderen Land)\r\n\r\nBitte verwenden Sie einen anderen verfügbaren Weg (zum Beispiel via Notruf 112) um diese Leitstelle zu kontaktieren!\r\n\r\n!! IHR NOTRUF WIRD NICHT BEANTWORTET ODER WEITER BEARBEITET !!"
+    },
+    "service_id_unknown": {
+        "en": "unknown",
+        "de": "Unbekannt"
+    },
+    "service_id_primary": {
+        "en": "primary",
+        "de": "Primär"
+    },
+    "service_id_secondary": {
+        "en": "secondary",
+        "de": "Sekundär"
+    },
+    "service_id_international": {
+        "en": "international",
+        "de": "International"
+    },
+    "service_id_special_needs": {
+        "en": "special needs",
+        "de": "Spezielle Bedürfnisse"
+    },
+    "service_id_police": {
+        "en": "police",
+        "de": "Polizei"
+    },
+    "service_id_fire": {
+        "en": "fire brigade",
+        "de": "Feuerwehr"
+    },
+    "service_id_ambulance": {
+        "en": "ambulance",
+        "de": "Rettung"
+    },
+    "service_id_doctor": {
+        "en": "doctor",
+        "de": "Arzt"
+    },
+    "service_id_mountain_rescue": {
+        "en": "mountain rescue",
+        "de": "Bergrettung"
+    },
+    "service_id_thw": {
+        "en": "technical support",
+        "de": "Technische Unterstützung (THW)"
+    },
+    "service_id_other": {
+        "en": "other",
+        "de": "andere"
+    },
+    "service_type_unknown": {
+        "en": "unknown",
+        "de": "Unbekannt"
+    },
+    "service_type_phone": {
+        "en": "phone",
+        "de": "Telefon"
+    },
+    "service_type_sms": {
+        "en": "SMS",
+        "de": "SMS"
+    },
+    "service_type_fax": {
+        "en": "FAX",
+        "de": "FAX"
+    },
+    "service_type_email": {
+        "en": "email",
+        "de": "E-Mail"
+    },
+    "service_type_web": {
+        "en": "web",
+        "de": "Web"
+    },
+    "service_type_soap": {
+        "en": "soap",
+        "de": "soap"
+    },
+    "service_type_rest": {
+        "en": "rest",
+        "de": "rest"
+    },
+    "service_type_other": {
+        "en": "other",
+        "de": "Andere"
+    },
+
+
+
+
+    "service_type_unknown_icon": {
+        "en": "\u2753",
+        "de": "\u2753"
+    },
+    "service_type_phone_icon": {
+        "en": "\uD83D\uDD7D",
+        "de": "\uD83D\uDD7D"
+    },
+    "service_type_sms_icon": {
+        "en": "SMS",
+        "de": "SMS"
+    },
+    "service_type_fax_icon": {
+        "en": "\uD83D\uDDB7",
+        "de": "\uD83D\uDDB7"
+    },
+    "service_type_email_icon": {
+        "en": "\uD83D\uDD82",
+        "de": "\uD83D\uDD82"
+    },
+    "service_type_web_icon": {
+        "en": "\uD83D\uDDB3",
+        "de": "\uD83D\uDDB3"
+    },
+    "service_type_soap_icon": {
+        "en": "\uD83E\uDDFC",
+        "de": "\uD83E\uDDFC"
+    },
+    "service_type_rest_icon": {
+        "en": "rest",
+        "de": "rest"
+    },
+    "service_type_other_icon": {
+        "en": "\u2026",
+        "de": "\u2026"
+    }
+}

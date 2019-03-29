@@ -1,0 +1,12 @@
+node_modules
+bower_components
+typings
+/source/server/logs
+/dist/logs
+/source/other
+target
+private
+.vscode
+dec112-border.zip
+dist
+

@@ -1,0 +1,43 @@
+{
+  "name": "dec112-border",
+  "version": "1.0.12",
+  "description": "Deaf Emergency Call (DEC112) Border Gateway",
+  "main": "index.js",
+  "keywords": [
+    "deaf",
+    "emergency"
+  ],
+  "authors": [
+    "richard.prinz@min.at"
+  ],
+  "license": "GPL-3.0-only",
+  "homepage": "http://www.min.at/prinz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.3.4",
+    "angular": "~1.4.7",
+    "angular-translate": "~2.8.1",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "jquery-i18n-properties": "~1.2.0",
+    "jssip": "~0.7.9",
+    "leaflet": "~0.7.5",
+    "moment": "~2.10.6",
+    "q": "~2.0.2",
+    "angular-ui-router": "~0.2.15",
+    "lodash": "^4.11.2",
+    "angularjs-geolocation": "~0.1.1",
+    "angular-xml": "~2.2.1",
+    "Leaflet.MousePosition": "https://github.com/ardhi/Leaflet.MousePosition.git",
+    "leaflet-search": "https://github.com/stefanocudini/leaflet-search.git#~1.8.4",
+    "mespeak": "http://www.masswerk.at/mespeak/mespeak.zip?v=1.9.7.1",
+    "angular-localforage": "^1.2.5"
+  }
+}
+
